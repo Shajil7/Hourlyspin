@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hourly Spin Kings</string>
+    <string name="accessibility_service_description">Automates the configured AceWin Hourly Spin flow using visible UI elements. It does not enter passwords, OTPs, CAPTCHAs, or payment information.</string>
+</resources>
